@@ -1,1 +1,1 @@
-My first readme
+The ALX class is very good
